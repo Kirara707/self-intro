@@ -1,5 +1,3 @@
-```markdown
-
 👋 Hi there, I’m Kirara707
 
 Student | LLM enthusiast | Puzzle-game addict
@@ -32,6 +30,4 @@ Student | LLM enthusiast | Puzzle-game addict
 
 
 ![Kirara707's GitHub stats](https://kirara707.vercel.app/api?username=Kirara707&show_icons=true&theme=tokyonight)
-
-```
 
